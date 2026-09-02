@@ -1,2 +1,32 @@
-# Leetcode-Python-Solutions
-Python Code solving leetcode challenges
+# LeetCode Solutions in Python
+
+Welcome to my repository tracking my algorithmic journey through LeetCode! Here, I store my clean, well-commented Python solutions along with runtime and space complexities.
+
+## Progress Tracker
+
+| Difficulty | Solved |
+| :--- | :--- |
+| Easy | 2 / 800 |
+| Medium | 0 / 1600 |
+| Hard | 0 / 700 |
+| **Total** | **2** |
+
+---
+
+## Solutions Table
+
+| # | Title | Solution | Difficulty | Category / Tag | Time | Space |
+|---|---|---|---|---|---|---|
+| 0001 | [Two Sum](https://leetcode.com) | [Python](./Easy/0001-two-sum/solution.py) | Easy | Array, Hash Table | O(N) | O(N) |
+| 0009 | [Palindrome Number](https://leetcode.com) | [Python](./Easy/0009-palindrome-number/solution.py) | Easy | Math | O(log N) | O(1) |
+
+---
+
+## How I Structure My Code
+Each problem folder contains:
+* `solution.py`: The executable, clean Python solution.
+* A brief markdown explanation inside the solution file detailing the intuition behind the optimal approach.
+
+##  Environment & Setup
+* **Language:** Python 3.x
+* **Linter/Formatter:** Optional (e.g., Black or Flake8 for clean styling)
