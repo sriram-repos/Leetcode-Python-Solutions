@@ -16,7 +16,7 @@ Welcome to my repository tracking my algorithmic journey through LeetCode! Here,
 ## Solutions Table
 
 | # | Title | Solution | Difficulty | Category / Tag |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|
 | 0001 | [Two Sum](https://leetcode.com) | [Python](./Easy/0001-two-sum/solution.py) | Easy | Array, Hash Table |
 | 0009 | [Palindrome Number](https://leetcode.com) | [Python](./Easy/0009-palindrome-number/solution.py) | Easy | Math |
 
