@@ -6,10 +6,10 @@ Welcome to my repository tracking my algorithmic journey through LeetCode! Here,
 
 | Difficulty | Solved |
 | :--- | :--- |
-| Easy | 2 / 800 |
+| Easy | 3 / 800 |
 | Medium | 0 / 1600 |
 | Hard | 0 / 700 |
-| **Total** | **2** |
+| **Total** | **3** |
 
 ---
 
@@ -19,6 +19,8 @@ Welcome to my repository tracking my algorithmic journey through LeetCode! Here,
 |---|---|---|---|---|
 | 0001 | [Two Sum](https://leetcode.com) | [Python](./Easy/0001-two-sum/solution.py) | Easy | Array, Hash Table |
 | 0009 | [Palindrome Number](https://leetcode.com) | [Python](./Easy/0009-palindrome-number/solution.py) | Easy | Math |
+| 1757 | [Recyclable-and-low-Fat-Products](https://leetcode.com) | [Python](./Easy/1757-Recyclable-and-low-Fate-Products/1757-solution.py) | Easy | PySpark |
+
 
 ---
 
